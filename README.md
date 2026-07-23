@@ -96,7 +96,7 @@ Models include:
 
 ```text
 .
-├── Applied_Data_Mining.ipynb
+├── applied_data_mining-2.ipynb
 ├── datasets/
 │   ├── Datos_agricultura.csv
 │   ├── Datos_drones.xlsx
